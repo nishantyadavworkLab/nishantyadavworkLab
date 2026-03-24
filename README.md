@@ -44,4 +44,4 @@
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/nishantyadavworkLab
-* LinkedIn: (https://www.linkedin.com/in/nishant-yadav-6b4bb03b8?trk=contact-info)
+* LinkedIn: https://www.linkedin.com/in/nishant-yadav-6b4bb03b8?trk=contact-info
